@@ -15,5 +15,5 @@ I'm a Software Engineer, I'm passionate about sharing knowledge, documentation, 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gbriitsz&show_icons=true&include_all_commits=true&hide_border=true" alt="Gbrittsz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbriitsz&langs_count=8&layout=compact&hide_border=true" alt="Gbriitsz's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gbriitsz&show_icons=true&include_all_commits=true&hide_border=true" alt="Gbrittsz GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbriitsz&langs_count=8&layout=compact&hide_border=true" alt="Gbriitsz GitHub stats" /> |
 | ------------- | ------------- |
