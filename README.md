@@ -17,7 +17,7 @@ I'm a Software Engineer, Backend Developer. I'm passionate about sharing knowled
 
 - 💼 Job interests: Software Engineer, Backend Developer (Intern or Junior level).
 
-- 📫 You can [view my resume](#) and contact me by emailing mailtobolaji@gmail.com.
+- 📫 You can [view my resume](#) and contact me by emailing hbankole06@gmail.com.
 
 
 
